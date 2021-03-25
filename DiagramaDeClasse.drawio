@@ -1,14 +1,14 @@
-<mxfile host="app.diagrams.net" modified="2021-03-25T03:30:44.267Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.90 Safari/537.36" etag="JNTYO570mFQJnevegHfj" version="14.5.1" type="github">
+<mxfile host="app.diagrams.net" modified="2021-03-25T03:38:03.805Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.90 Safari/537.36" etag="8QW7fyz3GPGtr2gJcdNf" version="14.5.1" type="github">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
     <mxGraphModel dx="1253" dy="580" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-0" />
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-1" parent="WIyWlLk6GJQsqaUBKTNV-0" />
-        <mxCell id="mLQQ9qx6AaB_6X7zCbRx-1" value="&lt;span style=&quot;font-size: 36px&quot;&gt;&lt;b&gt;&lt;u&gt;DIAGRAMA TEAMS&lt;/u&gt;&lt;/b&gt;&lt;/span&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="mLQQ9qx6AaB_6X7zCbRx-1" value="&lt;span style=&quot;font-size: 36px&quot;&gt;&lt;b&gt;&lt;u&gt;DIAGRAMA SIA&lt;/u&gt;&lt;/b&gt;&lt;/span&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="809" width="360" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="mLQQ9qx6AaB_6X7zCbRx-2" value="Classname" style="swimlane;fontStyle=1;align=center;verticalAlign=top;childLayout=stackLayout;horizontal=1;startSize=26;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="820" y="70" width="160" height="86" as="geometry" />
+        <mxCell id="mLQQ9qx6AaB_6X7zCbRx-2" value="Modelo" style="swimlane;fontStyle=1;align=center;verticalAlign=top;childLayout=stackLayout;horizontal=1;startSize=26;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="900" y="90" width="160" height="86" as="geometry" />
         </mxCell>
         <mxCell id="mLQQ9qx6AaB_6X7zCbRx-3" value="+ field: type" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="mLQQ9qx6AaB_6X7zCbRx-2">
           <mxGeometry y="26" width="160" height="26" as="geometry" />
@@ -19,8 +19,8 @@
         <mxCell id="mLQQ9qx6AaB_6X7zCbRx-5" value="+ method(type): type" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="mLQQ9qx6AaB_6X7zCbRx-2">
           <mxGeometry y="60" width="160" height="26" as="geometry" />
         </mxCell>
-        <mxCell id="mLQQ9qx6AaB_6X7zCbRx-6" value="&lt;div style=&quot;text-align: left&quot;&gt;&lt;b style=&quot;font-size: 36px&quot;&gt;Equipes - Andrew&lt;/b&gt;&lt;/div&gt;&lt;span style=&quot;font-size: 36px&quot;&gt;&lt;div style=&quot;text-align: left&quot;&gt;&lt;b&gt;Calendário - Schmidt&lt;/b&gt;&lt;/div&gt;&lt;b&gt;&lt;div style=&quot;text-align: left&quot;&gt;&lt;b&gt;Usuários - Nayara&lt;/b&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left&quot;&gt;&lt;b&gt;Chat - Fabricio&lt;/b&gt;&lt;/div&gt;&lt;/b&gt;&lt;/span&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="40" y="30" width="470" height="250" as="geometry" />
+        <mxCell id="mLQQ9qx6AaB_6X7zCbRx-6" value="&lt;div style=&quot;text-align: left&quot;&gt;&lt;span style=&quot;font-size: 36px&quot;&gt;&lt;b&gt;Disciplinas&lt;/b&gt;&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left&quot;&gt;&lt;span style=&quot;font-size: 36px&quot;&gt;&lt;b&gt;Acadêmico&lt;/b&gt;&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left&quot;&gt;&lt;span style=&quot;font-size: 36px&quot;&gt;&lt;b&gt;Financeiro&lt;/b&gt;&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left&quot;&gt;&lt;span style=&quot;font-size: 36px&quot;&gt;&lt;b&gt;Atendimento&lt;/b&gt;&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left&quot;&gt;&lt;span style=&quot;font-size: 36px&quot;&gt;&lt;b&gt;Usuário&lt;/b&gt;&lt;/span&gt;&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry width="280" height="360" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
