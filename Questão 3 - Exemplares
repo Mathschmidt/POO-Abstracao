@@ -147,3 +147,86 @@ EXEMPLO ENUMERAÇÃO (12) (Modulo)
 		Id: 2;
 		Nome: 2º Semestre;
 		Ativa: true;
+		
+
+EXEMPLO ENUMERAÇÃO (7) (Disciplina)
+
+Discip1 : Disciplina 
+    Id: 1;
+    Codigo: "WYF0944";
+    Nome: "PROGRAMAÇÃO ORIENTADA A OBJETOS";
+    TipoDisciplinaId: 1;
+    CargaHoraria: 60;
+    Ementa: "Descrição da matéria";
+    Ativa: true;
+
+Discip1 : Disciplina
+    Id: 2;
+    Codigo: "WYF1513";
+    Nome: "TEORIA DA COMPUTAÇÃO E COMPILADORES";
+    TipoDisciplinaId: 2;
+    CargaHoraria: 60;
+    Ementa: "Descrição da matéria";
+    Ativa: true;
+
+
+EXEMPLO ENUMERAÇÃO (15) (Nota)
+
+Nota1 : Nota
+    Id: 1;
+    Nota: 9,7;
+    DisciplinaId: 1;
+    TipoNotaId: 1;
+
+Nota1 : Nota
+    Id: 2;
+    Nota: 7,5;
+    DisciplinaId: 2;
+    TipoNotaId: 2;
+
+
+EXEMPLO ENUMERAÇÃO (16) (TipoNota)
+
+TipoNota1 : TipoNota
+    Id: 1;
+    Nome: "AV1";
+    Ativa: true;
+
+TipoNota2 : TipoNota
+    Id: 2;
+    Nome: "AV2";
+    Ativa: true;
+
+
+EXEMPLO ENUMERAÇÃO (1) (HistorioEscolar)
+
+HistEsc1 : HistorioEscolar
+    Id: 1;
+    NotaId: 1;
+    AlunoId: 1;
+
+HistEsc2 : HistorioEscolar
+    Id: 2;
+    NotaId: 2;
+    AlunoId: 2;
+
+
+EXEMPLO ENUMERAÇÃO (8) (GradeDetalhe)
+
+GradeDet1 : GradeDetalhe
+    Id: 1;
+    AmbienteDisciplinaId: 1;
+    CursoId: 1;
+    ProfessorId: 1;
+    ModuloId: 1;
+    GradeId: 1;
+    Ativa: true;
+
+GradeDet2 : GradeDetalhe
+    Id: 2;
+    AmbienteDisciplinaId: 2;
+    CursoId: 2;
+    ProfessorId: 2;
+    ModuloId: 2;
+    GradeId: 2;
+    Ativa: true;
