@@ -230,3 +230,68 @@ GradeDet2 : GradeDetalhe
     ModuloId: 2;
     GradeId: 2;
     Ativa: true;
+
+
+
+EXEMPLO ENUMERAÇÃO (11) (Grade)
+
+   Grd1:Grade	
+	id: 1;	
+	Código: EAD;	
+	Ativa: true;	
+
+
+   Grd2:Grade	
+	id: 2;	
+	Código: Presencial;	
+	Ativa: true;	
+
+
+EXEMPLO ENUMERAÇÃO (9) (DisciplinaProfessor)	
+
+
+   DisProf1:DisciplinaProfessor 	
+
+	id:1;	
+	AmbienteDisciplinaId: 1;	
+	ProfesorId: 1;	
+
+
+   DisProf2:DisciplinaProfessor 
+
+	id:2;	
+	AmbienteDisciplinaId: 2;	
+	ProfesorId: 2;	
+
+
+EXEMPLO ENUMERAÇÃO (14) (Curso)	
+
+   Cur1:Curso	
+	Id: 1;	
+	Nome: Biomedicina;	
+	GradeId: 1;	
+	TipoCursoId: 2;	
+	Ativa: true;	
+
+
+  Cur2:Curso	
+	Id: 2;	
+	Nome: Eng. Computação;	
+	GradeId: 2;	
+	TipoCursoId: 1;	
+	Ativa: true;	
+
+
+
+EXEMPLO ENUMERAÇÃO (13) (TipoCurso)	
+
+   TipCur1:TipoCurso	
+	Id: 1;	
+	Nome: Tecnologia;	
+	Ativa: true;	
+
+
+   TipCur2:TipoCurso	
+	Id: 2;	
+	Nome: Saúde;	
+	Ativa: true;	
