@@ -60,6 +60,7 @@ Id:2
 TurmaId:2
 AlunoId:2
 
+
 EXEMPLO ENUMERAÇÃO (19) (Aluno)
 	Alu1: Aluno
 		Id: 1;
@@ -99,3 +100,50 @@ EXEMPLO ENUMERAÇÃO (19) (Aluno)
 		NomePai: Jaime dos Santos;
 		NomeMae: Maria Madalena das Dores;
 		AnoConclusao: 2022;	
+		
+		
+EXEMPLO ENUMERAÇÃO (4) (Ambiente)
+	Amb1: Ambiente
+		Id: 1;
+		Nome: SIA;
+		TipoAmbienteId: 1(online);
+		Ativa: true;
+	Amb2: Ambiente
+		Id: 2;
+		Nome: Unimetrocamp;
+		TipoAmbienteId: 2(Faculdade);
+		Ativa: true;
+		
+		
+EXEMPLO ENUMERAÇÃO (3) (TipoAmbiente)		
+- TipoAmbiente
+	TipAmb1: TipoAmbiente
+		Id: 1;
+		Nome: EAD;
+		Ativa: true;
+	TipAmb1: Ambiente
+		Id: 2;
+		Nome: Presencial;
+		Ativa: false;
+		
+
+EXEMPLO ENUMERAÇÃO (5) (AmbienteDisciplina)	
+	AmbDisc1: AmbienteDisciplina
+		Id: 1;
+		AmbienteId: 1
+		DisciplinaId: 2
+	AmbDisc2: AmbienteDisciplina
+		Id: 2;
+		AmbienteId: 2
+		DisciplinaId: 1
+		
+
+EXEMPLO ENUMERAÇÃO (12) (Modulo)	
+	Mod1: Modulo
+		Id: 1;
+		Nome: 1º Semestre;
+		Ativa: true;
+	Mod2: Modulo
+		Id: 2;
+		Nome: 2º Semestre;
+		Ativa: true;
