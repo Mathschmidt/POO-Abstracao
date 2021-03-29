@@ -59,3 +59,43 @@ AlunoId:1
 Id:2
 TurmaId:2
 AlunoId:2
+
+EXEMPLO ENUMERAÇÃO (19) (Aluno)
+	Alu1: Aluno
+		Id: 1;
+		NomeCivil: Júlia Almeida Alves;
+		Matricula: 2015080101;
+		Situacao: Finalizado;
+		TipoIngresso: Transferência;
+		CursoId: 1;
+		Tel: 1900000000;
+		Cell: 1985694125;
+		DataNascimento: 30081998;
+		Email: julia.aa@gmail.com;
+		Cidade: Campinas;
+		RgNumero: 859637415;
+		RgUfId: 1;
+		RgOrgaoEmissao: SSP;
+		RgDataEmissao: 03032007;
+		NomePai: Alberto de Oliveira;
+		NomeMae: Rosa da Silva Oliveira;
+		AnoConclusao: 2020;
+	Alu2: Aluno
+		id: 2;
+		NomeCivil: Augusto Siqueira Candido;
+		Matricula: 2021032801;
+		Situacao: Em andamento;
+		TipoIngresso: Centro de Admissões;
+		CursoId: 2;
+		Tel: 1100000000;
+		Cell: 1184694525;
+		DataNascimento: 30081989;
+		Email: au.gusto@gmail.com;
+		Cidade: São Paulo;
+		RgNumero: 858957411;
+		RgUfId: 2;
+		RgOrgaoEmissao: SSP;
+		RgDataEmissao: 17062017;
+		NomePai: Jaime dos Santos;
+		NomeMae: Maria Madalena das Dores;
+		AnoConclusao: 2022;	
