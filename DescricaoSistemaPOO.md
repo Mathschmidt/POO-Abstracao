@@ -60,3 +60,74 @@ A classe Tipo Disciplina tem o objetivo de criar um novo tipo de Disciplina e vi
 Comportamento: Novo 
 
 
+8º Objeto: GradeDetalhe 
+
+A classe GradeDetalhe tem como objetivo armazenar as informações de cada grade levando em consideração cada curso, professor, modulo e disciplina.
+Comportamento: Vincular, Migra e Procurar 
+
+9º Objeto: DisciplinaProfessor  
+
+A classe DisciplinaProfessor tem como objetivo vincular o ambiente disciplina e o professor.
+Comportamento: Vincular, Desvincular e Listar
+
+
+10º Objeto: Professor 
+
+A classe Professor tem como objetivo armazenar informações de cada professor. 
+Comportamento: Novo, Editar e Consultar.
+
+
+11º Objeto: Grade
+
+A classe Grade tem como objetivo de receber informações da classe curso para a gerar uma grade.
+Comportamento: Gerar, Desativar e Obter.
+
+
+12º Objeto: Modulo
+
+A classe modulo tem como objetivo armazenar informações de cada modulo para a comunicação classe GradeDetalhe.
+Comportamento:  Novo
+
+
+13º Objeto: TipoCurso
+
+A Classe TipoCurso tem como objetivo a criação de um novo tipo de curso e a comunicação com a classe curso.
+Comportamento:  Novo
+
+14º Objeto: Curso
+
+A classe Curso armazena informações dos cursos levando em consideração de outras classes como Grade e TipoCurso.
+Comportamento:  Novo, Inativar.
+
+15º Objeto: Nota
+
+A classe Nota armazena informações de notas de cada aluno em cada disciplina.
+Comportamento:  Lançar, Obter e Media 
+
+16º Objeto: TipoNota
+
+A classe TipoNota e a criação de novo método de avaliação que recebe uma nota.
+Comportamento:  Novo
+
+
+17º Objeto: Turma 
+
+A classe Turma armazena informações de cada turma criada levando em consideração Curso e o Período
+Comportamento:  Novo e Consulta
+
+
+18º Objeto: TurmaAluno
+
+A classe TurmaAluno vincula os alunos matriculado com as turmas criada.
+Comportamento:  Vincular, Transferir e Juntar.
+
+19º Objeto: Aluno 
+
+A classe Aluno armazena as informações dos alunos cadastrados.
+Comportamento:  Novo, Alterar e Trocar curso.
+
+20º Objeto: Cidade
+
+A classe Cidade armazena todas as cidades e se comunica com a classe Estado. 
+Comportamento:  Listar
+
