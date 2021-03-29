@@ -1,0 +1,62 @@
+Exemplares de preenchimento para as classes listadas:
+
+EXEMPLO ENUMERAÇÃO (17) (Turma)
+
+Id:1
+Cursoid:1
+CodigoTurma:1
+Periodoid:1
+Datainicio:28/03/2022
+DataTermino:28/03/2023
+
+Id:2
+Cursoid:2
+CodigoTurma:2
+Periodoid:2
+Datainicio:30/03/2021
+DataTermino: 30/03/2022
+
+EXEMPLO ENUMERAÇÃO (2) (Periodo)
+Id:1
+Nome:Manhã
+HorarioInicio:07:00
+HorarioTermino:12:00
+
+Id:2
+Nome:Tarde
+HorarioInicio:13:00
+HorarioTermino:18:00
+
+Id:3
+Nome:Noite
+HorarioInicio:18:00
+HorarioTermino:23:00
+
+EXEMPLO ENUMERAÇÃO (7) (Tipodisciplina)
+Id:1
+Nome:Eng.Software
+Ativa:True
+
+Id:2
+Nome:Eng.Eletrica
+Ativa:True
+
+EXEMPLO ENUMERAÇÃO (10) (Professor)
+Id:1
+Nome:Valdir de Souza
+Matricula:1
+Ativa:true
+
+Id:2
+Nome:Marcos Evangelista
+Matricula:2
+Ativa:false
+
+EXEMPLO ENUMERAÇÃO (18) (Turmaaluno)
+Id:1
+TurmaId:1
+AlunoId:1
+
+Id:2
+TurmaId:2
+AlunoId:2
