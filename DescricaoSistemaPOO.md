@@ -27,35 +27,42 @@ https://github.com/Mathschmidt/POO-Abstracao/blob/master/DiagramaDeClasse.drawio
 Descrição de propósito e comportamento
 
 1º Objeto: HistoricoEscolar
+
 Armazenar as informações acadêmica do aluno vinculando as notas.
 Comportamento: Consulta
 
 
 2º Objeto: Período
+
 Armazenar as informações Início e Termino que se comunicará com a classe turma.
 Comportamento: Novo
 
 3º Objeto: TipoAmbiente
+
 A classe Tipo ambiente tem o objetivo de criar um novo ambiente e vincular com a classe Ambiente.
 Comportamento: Novo
 
 
 4º Objeto: Ambiente
+
 A classe Ambiente tem o objetivo de gerar ambiente e vincular com a classe Ambiente Disciplina.
 Comportamento: Gerar 
 
 
 5º Objeto: AmbienteDisciplina
+
 A classe Ambiente Disciplina tem o objetivo de vincular com a classe Ambiente e a Disciplina. 
 Comportamento: Vincular
 
 
 6º Objeto: Disciplina
+
 A classe Disciplina tem o objetivo de criar e armazenar as informações de cada disciplina.
 Comportamento: Novo e Unir 
 
 
 7º Objeto: TipoDisciplina
+
 A classe Tipo Disciplina tem o objetivo de criar um novo tipo de Disciplina e vincular na classe Disciplina
 Comportamento: Novo 
 
