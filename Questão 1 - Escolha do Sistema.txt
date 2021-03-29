@@ -8,3 +8,6 @@ pela instituição de ensino, podendo ser alterada posteriormente. O intuito de 
 melhorando a experiencia dos estudantes para que eles tenham um maior controle e interação com as suas atividades acadêmicas. Desta 
 forma a objetividade desta aplicação acaba por diminuir e simplificar processos acadêmicos e acesso à informações que normalmente 
 exigiam muito tempo para serem concluídos e agora o aluno pode concluir em apenas alguns cliques.
+
+
+teste
