@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2021-03-29T01:25:23.467Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.90 Safari/537.36" etag="0Ps0gzNMOi5-coTlS0rv" version="14.5.3" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2021-03-29T01:48:50.661Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.90 Safari/537.36" etag="SZyQK7a-sdGr05NoJBUg" version="14.5.3" type="github" pages="2">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Apresentacao">
-    <mxGraphModel dx="971" dy="429" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+    <mxGraphModel dx="665" dy="384" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-0" />
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-1" parent="WIyWlLk6GJQsqaUBKTNV-0" />
@@ -26,7 +26,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="QTPMtahb0I7JuUEzKrf3" name="POO - Diagrama de Classe">
-    <mxGraphModel dx="2556" dy="613" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+    <mxGraphModel dx="1951" dy="452" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="0aaz7BvcnGME8zQuiILn-0" />
         <mxCell id="0aaz7BvcnGME8zQuiILn-1" parent="0aaz7BvcnGME8zQuiILn-0" />
@@ -720,6 +720,9 @@
         </mxCell>
         <mxCell id="ZBwB4TEmwT2QQjrvrg1c-36" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="0aaz7BvcnGME8zQuiILn-1" source="WuGdjpizmF9AW1h7BcKA-1" target="ZBwB4TEmwT2QQjrvrg1c-30" edge="1">
           <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="7I3l4cp2b7bfPJ54Nhwg-2" value="&lt;b&gt;&lt;font style=&quot;font-size: 21px&quot;&gt;SISTEMA DE INFORMACOES ACADEMICAS (SIA)&lt;/font&gt;&lt;/b&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="0aaz7BvcnGME8zQuiILn-1">
+          <mxGeometry x="-90" y="34" width="669" height="63" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
