@@ -1,5 +1,14 @@
+/*
+ * To change this license header, choose License Headers in Project Properties.
+ * To change this template file, choose Tools | Templates
+ * and open the template in the editor.
+ */
 package sistemaacademico.classes;
 
+/**
+ *
+ * @author Matheus Schmidt
+ */
 import java.text.MessageFormat;
 import java.util.Scanner;
 public class Disciplina {
@@ -7,24 +16,26 @@ public class Disciplina {
     //Atributos
     private int id;
     private String nome;
+    private String ementa;
     private int codigo;
     private int cargaHoraria;
     private int creditos;
     private Professor professor;
 
     //Construtores
-    public Disciplina(Disciplina disciplina){//para quando for atribuída à um aluno
+    /*public Disciplina(Disciplina disciplina){//para quando for atribuída à um aluno
         this.id=disciplina.getId();
         this.nome=disciplina.getNome();
         this.codigo=disciplina.getCodigo();
         this.cargaHoraria=disciplina.getCargaHoraria();
         this.creditos=disciplina.getCreditos();
-    }
+    }*/
 
 
-    public Disciplina (int id, String nome, int codigo, int cargaHoraria, int creditos, Professor professor){
+    public Disciplina (int id, String nome, String ementa , int codigo, int cargaHoraria, int creditos, Professor professor){
         this.id=id;
         this.nome=nome;
+        this.ementa=ementa;
         this.codigo=codigo;
         this.cargaHoraria=cargaHoraria;
         this.creditos=creditos;
@@ -45,6 +56,13 @@ public class Disciplina {
     }
     public String getNome(){
         return nome;
+    }
+    
+    public void setEmenta(String ementa){
+        this.ementa=ementa;
+    }
+    public String getEmenta(){
+        return ementa;
     }
 
     public void setCodigo(int codigo){
@@ -71,6 +89,6 @@ public class Disciplina {
     @Override
     public String toString(){
         return MessageFormat.format("\n Id: {0}\n Disciplina: {1}\n Código: {2}\n Carga Horária: {3}\n Créditos: {4}\n" +
-                " Professor: {5}\n", id, nome, codigo, cargaHoraria, creditos, professor.getNomeCivil());
+                " Professor: {5}\n", id, nome, ementa, codigo, cargaHoraria, creditos, professor.getNomeCivil());
     }
 }
