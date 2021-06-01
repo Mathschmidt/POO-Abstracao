@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-06-01T00:01:24.412Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.212 Safari/537.36" etag="p4RRNXMyOe0VAmpuMh03" version="14.7.3" type="github">
+<mxfile host="app.diagrams.net" modified="2021-06-01T00:06:13.287Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.212 Safari/537.36" etag="bIN_KhWNuGnVqM8A6Cz-" version="14.7.3" type="github">
   <diagram id="QTPMtahb0I7JuUEzKrf3" name="POO - Diagrama de Classe">
     <mxGraphModel dx="2629" dy="624" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
@@ -648,7 +648,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="7I3l4cp2b7bfPJ54Nhwg-2" value="&lt;b&gt;&lt;font style=&quot;font-size: 21px&quot;&gt;SISTEMA DE INFORMACOES ACADEMICAS (SIA)&lt;/font&gt;&lt;/b&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="0aaz7BvcnGME8zQuiILn-1" vertex="1">
-          <mxGeometry x="-90" y="34" width="669" height="63" as="geometry" />
+          <mxGeometry x="-129.32999999999998" y="14" width="669" height="63" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
